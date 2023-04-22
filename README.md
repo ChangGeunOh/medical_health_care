@@ -1,8 +1,8 @@
 # Medical Healthcare App UI Design in Flutter - Flutter UI Design
 
-A Medical Health Care App Using Bloc 
+A Medical Health Care Demo App Using Bloc 
 
-- [Dear Programmer](https://www.youtube.com/watch?v=cE1d7iLu8-8&t=3144s)
+- [Youtube Dear Programmer](https://www.youtube.com/watch?v=cE1d7iLu8-8&t=3144s)
 
 ## Getting Started
 
